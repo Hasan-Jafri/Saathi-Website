@@ -1,0 +1,15 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": [
+          "YOUR_APPLE_TEAM_ID.YOUR_IOS_BUNDLE_ID"
+        ],
+        "components": [
+          { "/": "/ride/*" },
+          { "/": "/invite/*" }
+        ]
+      }
+    ]
+  }
+}
