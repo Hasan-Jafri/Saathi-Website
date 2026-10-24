@@ -7,7 +7,8 @@
       "namespace": "android_app",
       "package_name": "com.saathi.live",
       "sha256_cert_fingerprints": [
-        "CB:C8:A6:C9:35:09:B9:B4:1B:7D:E3:7D:E1:D9:D3:A3:D3:11:A3:B7:BA:B9:43:FC:E8:4C:35:37:49:BC:AE:8E"
+        "CB:C8:A6:C9:35:09:B9:B4:1B:7D:E3:7D:E1:D9:D3:A3:D3:11:A3:B7:BA:B9:43:FC:E8:4C:35:37:49:BC:AE:8E",
+        "FA:C6:17:45:DC:09:03:78:6F:B9:ED:E6:2A:96:2B:39:9F:73:48:F0:BB:6F:89:9B:83:32:66:75:91:03:3B:9C"
       ]
     }
   }
